@@ -1,3 +1,3 @@
-# local
+# Lab
 
-Hello this is repo 2 hello
+A simple CSS program.
